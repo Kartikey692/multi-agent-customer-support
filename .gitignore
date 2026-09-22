@@ -1,0 +1,7 @@
+myenv/
+__pycache__/
+*.pyc
+chroma_db/
+.env
+.vscode/
+.idea/
